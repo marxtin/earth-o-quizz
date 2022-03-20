@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/earth-o-quizz/static/css/main.618e04a9.css",
-    "main.js": "/earth-o-quizz/static/js/main.6480ce92.js",
+    "main.css": "/earth-o-quizz/static/css/main.f5cc2a67.css",
+    "main.js": "/earth-o-quizz/static/js/main.1c7eeb91.js",
     "static/media/earthrotate.gif": "/earth-o-quizz/static/media/earthrotate.e2dc6ded5f5739acc3af.gif",
     "static/media/bgforest.png": "/earth-o-quizz/static/media/bgforest.b88434836a1d792b653e.png",
     "static/media/pyramid.png": "/earth-o-quizz/static/media/pyramid.8581dc16a88957103e5d.png",
@@ -19,11 +19,11 @@
     "static/media/FredokaOne-Regular.woff": "/earth-o-quizz/static/media/FredokaOne-Regular.754bf8ab0d6a6f9d203a.woff",
     "static/media/FredokaOne-Regular.woff2": "/earth-o-quizz/static/media/FredokaOne-Regular.cf2c531a96ecbe8ae076.woff2",
     "index.html": "/earth-o-quizz/index.html",
-    "main.618e04a9.css.map": "/earth-o-quizz/static/css/main.618e04a9.css.map",
-    "main.6480ce92.js.map": "/earth-o-quizz/static/js/main.6480ce92.js.map"
+    "main.f5cc2a67.css.map": "/earth-o-quizz/static/css/main.f5cc2a67.css.map",
+    "main.1c7eeb91.js.map": "/earth-o-quizz/static/js/main.1c7eeb91.js.map"
   },
   "entrypoints": [
-    "static/css/main.618e04a9.css",
-    "static/js/main.6480ce92.js"
+    "static/css/main.f5cc2a67.css",
+    "static/js/main.1c7eeb91.js"
   ]
 }
