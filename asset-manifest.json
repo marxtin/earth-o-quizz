@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/earth-o-quizz/static/css/main.b5f78f37.css",
+    "main.css": "/earth-o-quizz/static/css/main.d627cd70.css",
     "main.js": "/earth-o-quizz/static/js/main.3a4b0f66.js",
     "static/media/earthrotate.gif": "/earth-o-quizz/static/media/earthrotate.e2dc6ded5f5739acc3af.gif",
     "static/media/bgforest.png": "/earth-o-quizz/static/media/bgforest.b88434836a1d792b653e.png",
@@ -14,11 +14,11 @@
     "static/media/BioRhymeExpanded-Regular.woff2": "/earth-o-quizz/static/media/BioRhymeExpanded-Regular.6a6112c636258fb621f8.woff2",
     "static/media/Jost-VariableFont_wght.woff": "/earth-o-quizz/static/media/Jost-VariableFont_wght.5439059adc444f3b0d6a.woff",
     "index.html": "/earth-o-quizz/index.html",
-    "main.b5f78f37.css.map": "/earth-o-quizz/static/css/main.b5f78f37.css.map",
+    "main.d627cd70.css.map": "/earth-o-quizz/static/css/main.d627cd70.css.map",
     "main.3a4b0f66.js.map": "/earth-o-quizz/static/js/main.3a4b0f66.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5f78f37.css",
+    "static/css/main.d627cd70.css",
     "static/js/main.3a4b0f66.js"
   ]
 }
