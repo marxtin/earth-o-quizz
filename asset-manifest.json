@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/earth-o-quizz/static/css/main.4eb0525a.css",
-    "main.js": "/earth-o-quizz/static/js/main.5b5794dd.js",
+    "main.css": "/earth-o-quizz/static/css/main.6b3ffc9c.css",
+    "main.js": "/earth-o-quizz/static/js/main.25b920e2.js",
     "static/media/earthrotate.gif": "/earth-o-quizz/static/media/earthrotate.e2dc6ded5f5739acc3af.gif",
     "static/media/bgforest.png": "/earth-o-quizz/static/media/bgforest.b88434836a1d792b653e.png",
     "static/media/pyramid.png": "/earth-o-quizz/static/media/pyramid.8581dc16a88957103e5d.png",
     "static/media/1.png": "/earth-o-quizz/static/media/1.f6becb74c109e4bb08f2.png",
     "static/media/NotoSans-Regular.woff": "/earth-o-quizz/static/media/NotoSans-Regular.063c5d2aeb69a90a0972.woff",
     "static/media/NotoSans-Regular.woff2": "/earth-o-quizz/static/media/NotoSans-Regular.084a4cf6805c931ca66a.woff2",
-    "static/media/sahara.png": "/earth-o-quizz/static/media/sahara.6409e7e9f0b72e047049.png",
+    "static/media/sahara.png": "/earth-o-quizz/static/media/sahara.9f93800d896eaab193b3.png",
     "static/media/BioRhymeExpanded-Regular.woff": "/earth-o-quizz/static/media/BioRhymeExpanded-Regular.81bb2b62094141879446.woff",
     "static/media/Jost-VariableFont_wght.woff2": "/earth-o-quizz/static/media/Jost-VariableFont_wght.54c03f7363989357219c.woff2",
     "static/media/BioRhymeExpanded-Regular.woff2": "/earth-o-quizz/static/media/BioRhymeExpanded-Regular.6a6112c636258fb621f8.woff2",
     "static/media/Jost-VariableFont_wght.woff": "/earth-o-quizz/static/media/Jost-VariableFont_wght.5439059adc444f3b0d6a.woff",
     "index.html": "/earth-o-quizz/index.html",
-    "main.4eb0525a.css.map": "/earth-o-quizz/static/css/main.4eb0525a.css.map",
-    "main.5b5794dd.js.map": "/earth-o-quizz/static/js/main.5b5794dd.js.map"
+    "main.6b3ffc9c.css.map": "/earth-o-quizz/static/css/main.6b3ffc9c.css.map",
+    "main.25b920e2.js.map": "/earth-o-quizz/static/js/main.25b920e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eb0525a.css",
-    "static/js/main.5b5794dd.js"
+    "static/css/main.6b3ffc9c.css",
+    "static/js/main.25b920e2.js"
   ]
 }
